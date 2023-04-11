@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuragh K P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My love for technology is matched only by my appreciation for all the beautiful things in the universe. I believe that by combining the power of technology with our innate sense of wonder and curiosity, we can create amazing things that will benefit all of humanity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpanuragh&label=Profile%20views&color=0e75b6&style=flat" alt="kpanuragh" /> </p>
 
