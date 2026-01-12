@@ -101,14 +101,15 @@ const anuragh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kpanuragh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpanuragh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kpanuragh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kpanuragh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpanuragh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kpanuragh&theme=tokyonight&hide_border=true)
 
 </div>
 
