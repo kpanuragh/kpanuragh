@@ -101,108 +101,78 @@ const anuragh = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kpanuragh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=kpanuragh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kpanuragh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kpanuragh&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kpanuragh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kpanuragh&theme=tokyonight&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kpanuragh&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## Profile Summary
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpanuragh&theme=tokyonight)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpanuragh&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kpanuragh&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kpanuragh&theme=tokyonight&utcOffset=5.5)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpanuragh&theme=tokyonight)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kpanuragh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kpanuragh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
+<!--
 ## GitHub Metrics
 
+Note: GitHub Metrics requires setup. Uncomment when ready to use.
+
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/kpanuragh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
+![Metrics](https://metrics.lecoq.io/kpanuragh?template=classic&config.timezone=Asia%2FKolkata)
 
 </div>
+-->
 
 ---
 
+<!--
 ## Recent Activity
 
+Note: This section requires GitHub Actions workflow setup.
+To enable: Create .github/workflows/update-activity.yml
+
 <!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:activity-->
+-->
 
 ---
 
+<!--
 ## Achievements
+
+Note: Holopin badges require claiming at https://holopin.io
+Uncomment when you have badges to display.
 
 <div align="center">
 
-<!-- Holopin Badges - You need to claim badges at https://holopin.io -->
 [![@kpanuragh's Holopin board](https://holopin.me/kpanuragh)](https://holopin.io/@kpanuragh)
 
 </div>
-
----
-
-## Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-</div>
+-->
 
 ---
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated with your latest blog posts -->
-<!-- BLOG-POST-LIST:END -->
+📝 [Visit my blog](https://iamanuragh.in/) for the latest articles and tutorials
 
-📝 [Read more on my blog](https://iamanuragh.in/)
+<!--
+Note: Auto-updating blog posts requires GitHub Actions workflow setup.
+To enable: Create .github/workflows/blog-post-workflow.yml
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
 
 ---
 
@@ -220,13 +190,18 @@ If you like my work, consider buying me a coffee!
 
 ---
 
+<!--
 ## Contribution Snake
+
+Note: This requires GitHub Actions workflow setup.
+To enable: Create .github/workflows/snake.yml
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/kpanuragh/kpanuragh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+-->
 
 ---
 
