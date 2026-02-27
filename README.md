@@ -176,20 +176,6 @@ To enable: Create .github/workflows/blog-post-workflow.yml
 
 ---
 
-## Support My Work
-
-<div align="center">
-
-If you like my work, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kpanuragh)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kpanuragh)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kpanuragh)
-
-</div>
-
----
-
 <!--
 ## Contribution Snake
 
