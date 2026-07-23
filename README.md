@@ -114,8 +114,10 @@ Also: **[dbexplore.nvim](https://github.com/kpanuragh/dbexplore.nvim)** (databas
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kpanuragh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kpanuragh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Anuragh's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpanuragh&theme=tokyonight)
+
+![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kpanuragh&theme=tokyonight)
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpanuragh&theme=tokyonight)
 
 </div>
 
