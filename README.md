@@ -3,14 +3,30 @@
   <img alt="Anuragh K P — full stack developer, Vatakara, Kerala. Rust, Laravel, SDR." src="assets/hero-light.svg" width="100%">
 </picture>
 
-I write web applications for a living — Laravel and Node, mostly, for long enough
-that the framework churn has stopped being interesting. What kept me here is a
-worse habit: when a tool gets in my way I rebuild it instead of filing an issue.
-A debugger bridge, a notification daemon, an app launcher, a database browser —
-all of them started as an afternoon of irritation.
+I build web applications for a living — Laravel and Node, mostly. That is the
+part of the job that pays. The part that keeps me interested is what happens
+when I hit the bottom of an abstraction and decide to keep going: an OS in
+Assembly, DEFLATE reimplemented from scratch, a Wayland notification daemon
+written to spec, a debugger bridge that speaks DBGp on the wire.
 
-The three things I actually chase now are Rust, local-first AI tooling, and
-radio. The last one is the least useful and by some distance the most fun.
+The other habit is that when a tool annoys me I rebuild it rather than filing an
+issue. Most of what is below started that way.
+
+And on evenings, radio — pointing a software-defined receiver at the sky and
+decoding whatever falls out of it. Receive only; I am not licensed to transmit.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-the-pattern-dark.svg">
+  <img alt="The pattern — how deep I tend to go" src="assets/hdr-the-pattern-light.svg" width="640">
+</picture>
+
+Most people stop at the framework. I keep going, and the projects below are where
+I stopped instead.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/layers-dark.svg">
+  <img alt="The stack from React and Laravel down to silicon, annotated with the project built at each depth: xdebug-mcp at the DBGp wire protocol, zlib at DEFLATE, swaynoti at the Wayland spec, tui-db at syscalls, myos at the bootloader." src="assets/layers-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-on-air-dark.svg">
@@ -23,6 +39,16 @@ radio. The last one is the least useful and by some distance the most fun.
 | **[gitlab_logger](https://github.com/kpanuragh/gitlab_logger)** | `Go` | Ships GitLab projects, pipelines and full job traces into Loki, so CI history stays searchable in Grafana long after GitLab's retention has thrown it out. |
 | **[ollama-tui](https://github.com/kpanuragh/ollama-tui)** | `Rust` | A terminal chat client for local Ollama models with real modal editing — normal, insert, command and visual. Streaming responses, SQLite-backed sessions, no mouse. |
 | **[iamanuragh.in](https://github.com/kpanuragh/kpanuragh.github.io)** | `TypeScript` | The blog. Mostly Laravel and Rust, occasionally a post about something that took me three days and should have taken twenty minutes. |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-workshop-dark.svg">
+  <img alt="Workshop — what annoyed me and what I built about it" src="assets/hdr-workshop-light.svg" width="640">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workshop-dark.svg">
+  <img alt="Each irritation and the tool written to remove it: notifications to swaynoti, launcher to wlaunch-rs, database client to tui-db, PHP debugging to xdebug-mcp, compression to zlib, and curiosity about the operating system to myos." src="assets/workshop-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-strong-signals-dark.svg">
@@ -79,9 +105,25 @@ inside Neovim) · **[chroma_viewer](https://github.com/kpanuragh/chroma_viewer)*
   <img alt="Noise floor — long-running side obsessions" src="assets/hdr-noise-floor-light.svg" width="640">
 </picture>
 
-- **Radio and SDR.** Pointing a software-defined radio at the sky and decoding
-  whatever falls out of it — aircraft transponders, weather, the occasional
-  satellite — while beating Morse into my head one Koch drill at a time.
+<table>
+<tr>
+<td width="330">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <img alt="A radar sweep with contacts appearing as the beam passes — a nod to decoding aircraft transponders with a software-defined radio. Marked receive only." src="assets/radar-light.svg" width="320">
+</picture>
+</td>
+<td>
+
+**Radio and SDR.** Pointing a software-defined receiver at the sky and decoding
+whatever falls out of it — aircraft transponders, weather, the occasional
+satellite — while beating Morse into my head one Koch drill at a time. Receive
+only: I am not licensed to transmit, and listening is most of the fun anyway.
+
+</td>
+</tr>
+</table>
+
 - **[myos](https://github.com/kpanuragh/myos).** An operating system, in
   Assembly, from nothing. At some point you have to find out what is actually
   down there.
@@ -104,6 +146,16 @@ inside Neovim) · **[chroma_viewer](https://github.com/kpanuragh/chroma_viewer)*
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/band-plan-dark.svg">
   <img alt="Backend: php, laravel, node, go, rust, python. Frontend: typescript, javascript, react, vue, next, tailwind. Data: mysql, postgres, mongodb, redis. Infra: docker, kubernetes, aws, azure, nginx, nix. Bench: linux, neovim, git, sdr." src="assets/band-plan-light.svg" width="620">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-bench-dark.svg">
+  <img alt="Bench — where the work actually happens" src="assets/hdr-bench-light.svg" width="640">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img alt="A terminal session running my own tools: tui-db connecting to Postgres, ollama-tui streaming a local model, and a release build finishing." src="assets/terminal-light.svg" width="100%">
 </picture>
 
 <picture>
