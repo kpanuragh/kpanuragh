@@ -1,138 +1,139 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Anuragh K P — full stack developer, Vatakara, Kerala. Rust, Laravel, SDR." src="assets/hero-light.svg" width="100%">
+</picture>
 
-# Anuragh K P
+I write web applications for a living — Laravel and Node, mostly, for long enough
+that the framework churn has stopped being interesting. What kept me here is a
+worse habit: when a tool gets in my way I rebuild it instead of filing an issue.
+A debugger bridge, a notification daemon, an app launcher, a database browser —
+all of them started as an afternoon of irritation.
 
-**Full Stack Developer · Vatakara, Kerala 🇮🇳**
+The three things I actually chase now are Rust, local-first AI tooling, and
+radio. The last one is the least useful and by some distance the most fun.
 
-*Laravel and Node pay the bills. Rust, Go and a soldering iron get the evenings.*
-
-[![Blog](https://img.shields.io/badge/blog-iamanuragh.in-2D9EF7?style=flat-square)](https://iamanuragh.in/)
-[![Profile Views](https://komarev.com/ghpvc/?username=kpanuragh&label=views&color=0e75b6&style=flat-square)](https://github.com/kpanuragh)
-[![Followers](https://img.shields.io/github/followers/kpanuragh?style=flat-square&color=0e75b6)](https://github.com/kpanuragh)
-
-</div>
-
----
-
-I've been shipping web apps for years — mostly Laravel, plenty of Node, and whatever the
-frontend of the month happens to be. Somewhere along the way I picked up a bad habit: when a
-tool annoys me, I write my own instead of filing an issue. That's how I ended up with a
-notification daemon, an app launcher, a database browser, and a debugger bridge that didn't
-exist before.
-
-These days most of my curiosity goes into three places: **local-first AI tooling**,
-**Rust**, and **radio** — I have an unreasonable amount of fun pointing an SDR at the sky and
-decoding what falls out of it.
-
----
-
-## 🔭 Currently building
-
-| | |
-|---|---|
-| **[noted](https://github.com/kpanuragh/noted)** `Rust` | A self-hostable notes workspace with a knowledge graph built from your own writing. It extracts entities and relations, clusters them into themes, and answers questions against the graph — so it can find a note connected to your question through a *chain of ideas*, not just matching keywords. Local embeddings, no API key. |
-| **[gitlab_logger](https://github.com/kpanuragh/gitlab_logger)** `Go` | Ships GitLab projects, pipelines and full job traces into Loki, so your CI history stays searchable in Grafana long after GitLab's retention has thrown it away. |
-| **[ollama-tui](https://github.com/kpanuragh/ollama-tui)** `Rust` | A terminal chat UI for local Ollama models, with genuine vim modal editing — normal, insert, command *and* visual mode. Streaming responses, SQLite-persisted sessions, never touch the mouse. |
-| **[iamanuragh.in](https://github.com/kpanuragh/kpanuragh.github.io)** `TypeScript` | My blog, where I write mostly about Laravel and Rust. |
-
-## 🔧 Built because it didn't exist
-
-<table>
-<tr>
-<td width="50%">
-
-**[xdebug-mcp](https://github.com/kpanuragh/xdebug-mcp)** ⭐ 23 · `TypeScript`
-An MCP server for PHP Xdebug — it lets an AI assistant actually *step through* your PHP code, set breakpoints and read the stack, over Unix socket or TCP.
-
-</td>
-<td width="50%">
-
-**[zlib](https://github.com/kpanuragh/zlib)** ⭐ 20 · `JavaScript`
-A pure-JavaScript implementation of Node's zlib core module. Gzip and Deflate/Inflate, no native bindings required.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[php_dockerize](https://github.com/kpanuragh/php_dockerize)** ⭐ 3 · `Shell`
-One script that stands up a complete PHP stack in Docker, because doing it by hand for the fifteenth time was fifteen times too many.
-
-</td>
-<td width="50%">
-
-**[tui-db](https://github.com/kpanuragh/tui-db)** · `Rust`
-DBeaver in your terminal. Browse tables, scroll 124 columns sideways, all of it vim-bound.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[swaynoti](https://github.com/kpanuragh/swaynoti)** · `Rust`
-A notification daemon for Wayland, full FreeDesktop spec. I wanted my notifications to look a specific way. This was the reasonable solution.
-
-</td>
-<td width="50%">
-
-**[wlaunch-rs](https://github.com/kpanuragh/wlaunch-rs)** · `Rust`
-A Raycast-style launcher for Linux built with Iced. See above, re: reasonable solutions.
-
-</td>
-</tr>
-</table>
-
-Also: **[dbexplore.nvim](https://github.com/kpanuragh/dbexplore.nvim)** (database explorer for Neovim) ·
-**[chroma_viewer](https://github.com/kpanuragh/chroma_viewer)** (poke around your Chroma vector DB) ·
-**[monitor](https://github.com/kpanuragh/monitor)** (`Go`) ·
-**[syncs](https://github.com/kpanuragh/syncs)** (`Rust`)
-
-## 🌍 Contributed to
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-on-air-dark.svg">
+  <img alt="On air — what I am currently building" src="assets/hdr-on-air-light.svg" width="640">
+</picture>
 
 | Project | | |
 |---|---|---|
-| **[Alexays/Waybar](https://github.com/Alexays/Waybar)** | ⭐ 11.7k | The Wayland bar half of Linux runs. Taught its Image module to take its image path from an executable, so the bar can show something that changes. |
-| **[NativePHP/electron](https://github.com/NativePHP/electron)** | ⭐ 515 | The Electron backend that lets PHP ship as a desktop app. Fixed up the `electron-builder` config. |
-| **[IamThejus/Gravity-Music](https://github.com/IamThejus/Gravity-Music)** | | Four rounds on a Flutter music app: brought it to the Linux desktop (audio + MPRIS), packaged it for `.deb`/`.rpm`/APK/MSIX, built a taste-aware recommender with per-artist and discovery mixes, and added karaoke lyrics modes. |
+| **[noted](https://github.com/kpanuragh/noted)** | `Rust` | A self-hostable notes workspace that builds a knowledge graph out of your own writing. It pulls entities and relations from your notes, clusters them into themes, and answers questions against the graph — so it can reach a note through a chain of ideas rather than a keyword match. Local embeddings, no API key. |
+| **[gitlab_logger](https://github.com/kpanuragh/gitlab_logger)** | `Go` | Ships GitLab projects, pipelines and full job traces into Loki, so CI history stays searchable in Grafana long after GitLab's retention has thrown it out. |
+| **[ollama-tui](https://github.com/kpanuragh/ollama-tui)** | `Rust` | A terminal chat client for local Ollama models with real modal editing — normal, insert, command and visual. Streaming responses, SQLite-backed sessions, no mouse. |
+| **[iamanuragh.in](https://github.com/kpanuragh/kpanuragh.github.io)** | `TypeScript` | The blog. Mostly Laravel and Rust, occasionally a post about something that took me three days and should have taken twenty minutes. |
 
-## 🐇 Rabbit holes I have fallen into
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-strong-signals-dark.svg">
+  <img alt="Strong signals — things I built because they did not exist" src="assets/hdr-strong-signals-light.svg" width="640">
+</picture>
 
-- 📡 **Radio & SDR** — chasing signals across the spectrum with an SDR, decoding aircraft transponders, and slowly beating Morse code into my head one Koch drill at a time.
-- 💾 **[myos](https://github.com/kpanuragh/myos)** — an operating system. In Assembly. From scratch. Because at some point you have to know what's actually down there.
-- 🐧 **A desktop assembled from parts** — Gentoo, Sway, Neovim, and a dotfiles repo I have rewritten more times than I've rewritten any product. See [nixos](https://github.com/kpanuragh/nixos), [ubuntu_nix_hyprland](https://github.com/kpanuragh/ubuntu_nix_hyprland), [dotfiles](https://github.com/kpanuragh/dotfiles) — the archaeological record.
-- 🦀 **[100_days_rust](https://github.com/kpanuragh/100_days_rust)** and **[100days_of_ai](https://github.com/kpanuragh/100days_of_ai)** — I keep starting hundred-day challenges. Ask me how they're going.
+**[xdebug-mcp](https://github.com/kpanuragh/xdebug-mcp)** · `TypeScript` · ★ 24
+An MCP server for PHP Xdebug. It lets an AI assistant actually step through your
+code — breakpoints, stack frames, variable inspection — over Unix socket or TCP,
+instead of guessing at the bug from a stack trace.
 
-## 🧰 Stack
+**[zlib](https://github.com/kpanuragh/zlib)** · `JavaScript` · ★ 20
+Node's zlib core module reimplemented in pure JavaScript. Gzip and
+Deflate/Inflate with no native bindings to compile.
 
-<div align="center">
+**[tui-db](https://github.com/kpanuragh/tui-db)** · `Rust`
+DBeaver without leaving the terminal. Browse schemas, scroll a 124-column table
+sideways, all of it vim-bound.
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,rust,go,python,react,vue,nextjs,nodejs,tailwind,mysql,postgres,mongodb,redis,docker,kubernetes,aws,azure,nginx,linux,nix,neovim,git&perline=13)](https://skillicons.dev)
+**[swaynoti](https://github.com/kpanuragh/swaynoti)** · `Rust`
+A notification daemon for Wayland implementing the full FreeDesktop spec. I
+wanted my notifications to look a particular way and this was, on reflection, the
+proportionate response.
 
-</div>
+**[wlaunch-rs](https://github.com/kpanuragh/wlaunch-rs)** · `Rust`
+A Raycast-style launcher for Linux, built on Iced. See above, regarding
+proportionate responses.
 
-## 📊 Stats
+**[ssh-mcp](https://github.com/kpanuragh/ssh-mcp)** · `TypeScript` · ★ 2
+An MCP server that gives an assistant a real SSH session on a remote host.
 
-<div align="center">
+**[php_dockerize](https://github.com/kpanuragh/php_dockerize)** · `Shell` · ★ 3
+One script that stands up a complete PHP stack in Docker, written after doing it
+by hand for the fifteenth time.
 
-![Anuragh's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpanuragh&theme=tokyonight)
+Also: **[dbexplore.nvim](https://github.com/kpanuragh/dbexplore.nvim)** (databases
+inside Neovim) · **[chroma_viewer](https://github.com/kpanuragh/chroma_viewer)**
+(poke around a Chroma vector store) ·
+**[syncs](https://github.com/kpanuragh/syncs)** (`Rust`)
 
-![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kpanuragh&theme=tokyonight)
-![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpanuragh&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-upstream-dark.svg">
+  <img alt="Upstream — projects I have contributed to" src="assets/hdr-upstream-light.svg" width="640">
+</picture>
 
-</div>
+| Project | | |
+|---|---|---|
+| **[Alexays/Waybar](https://github.com/Alexays/Waybar)** | ★ 11.7k | The Wayland bar that half of Linux runs. Taught the Image module to take its path from an executable, so the bar can show something that changes. |
+| **[NativePHP/electron](https://github.com/NativePHP/electron)** | ★ 515 | The Electron backend that lets PHP ship as a desktop app. Repaired the `electron-builder` configuration. |
+| **[IamThejus/Gravity-Music](https://github.com/IamThejus/Gravity-Music)** | | Four rounds on a Flutter music app: brought it to the Linux desktop with audio and MPRIS, packaged it for `.deb`, `.rpm`, APK and MSIX, built a taste-aware recommender with per-artist and discovery mixes, and added karaoke lyric modes. |
 
-## 🤝 Say hello
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-noise-floor-dark.svg">
+  <img alt="Noise floor — long-running side obsessions" src="assets/hdr-noise-floor-light.svg" width="640">
+</picture>
 
-<div align="center">
+- **Radio and SDR.** Pointing a software-defined radio at the sky and decoding
+  whatever falls out of it — aircraft transponders, weather, the occasional
+  satellite — while beating Morse into my head one Koch drill at a time.
+- **[myos](https://github.com/kpanuragh/myos).** An operating system, in
+  Assembly, from nothing. At some point you have to find out what is actually
+  down there.
+- **A desktop assembled from parts.** Gentoo, Hyprland, Neovim, and a dotfiles
+  repo rewritten more often than any product I have shipped —
+  [nixos](https://github.com/kpanuragh/nixos),
+  [ubuntu_nix_hyprland](https://github.com/kpanuragh/ubuntu_nix_hyprland),
+  [dotfiles](https://github.com/kpanuragh/dotfiles) form the archaeological
+  record.
+- **Hundred-day challenges.**
+  [100_days_rust](https://github.com/kpanuragh/100_days_rust) and
+  [100days_of_ai](https://github.com/kpanuragh/100days_of_ai). I keep starting
+  them. Do not ask which day I am on.
 
-[![Blog](https://img.shields.io/badge/Blog-iamanuragh.in-2D9EF7?style=for-the-badge&logo=hashnode&logoColor=white)](https://iamanuragh.in/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anuragh_kp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuraghkp)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9456940)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpanuragh@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-band-plan-dark.svg">
+  <img alt="Band plan — the tools I work with" src="assets/hdr-band-plan-light.svg" width="640">
+</picture>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/band-plan-dark.svg">
+  <img alt="Backend: php, laravel, node, go, rust, python. Frontend: typescript, javascript, react, vue, next, tailwind. Data: mysql, postgres, mongodb, redis. Infra: docker, kubernetes, aws, azure, nginx, nix. Bench: linux, neovim, git, sdr." src="assets/band-plan-light.svg" width="620">
+</picture>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-telemetry-dark.svg">
+  <img alt="Telemetry — GitHub statistics" src="assets/hdr-telemetry-light.svg" width="640">
+</picture>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub statistics: public repositories, total stars, followers, and contributions in the last year" src="assets/stats-light.svg" width="48%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/spectrum-dark.svg">
+  <img alt="Language spectrum showing the share of each programming language across my repositories" src="assets/spectrum-light.svg" width="48%">
+</picture>
+</p>
+
+<sub>Regenerated nightly by a GitHub Action in this repository — no third-party
+image services involved.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hdr-contact-dark.svg">
+  <img alt="Contact" src="assets/hdr-contact-light.svg" width="640">
+</picture>
+
+[iamanuragh.in](https://iamanuragh.in/) ·
+[@anuragh_kp](https://twitter.com/anuragh_kp) ·
+[LinkedIn](https://linkedin.com/in/anuraghkp) ·
+[Stack Overflow](https://stackoverflow.com/users/9456940) ·
+[kpanuragh@gmail.com](mailto:kpanuragh@gmail.com)
+
 <sub>Still debugging with <code>console.log()</code>. Still not sorry.</sub>
-</div>
