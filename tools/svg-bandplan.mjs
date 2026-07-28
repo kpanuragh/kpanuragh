@@ -1,6 +1,8 @@
 import { MONO, esc } from './theme.mjs';
 
-const W = 1000;
+// Sized to the widest row (FRONTEND) plus margin, so the chips fill the canvas
+// instead of trailing off into dead space.
+const W = 620;
 const H = 190;
 const ROW_HEIGHT = 32;
 const CHIP_HEIGHT = 22;
