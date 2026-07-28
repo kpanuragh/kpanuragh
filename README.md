@@ -29,32 +29,32 @@ radio. The last one is the least useful and by some distance the most fun.
   <img alt="Strong signals — things I built because they did not exist" src="assets/hdr-strong-signals-light.svg" width="640">
 </picture>
 
-**[xdebug-mcp](https://github.com/kpanuragh/xdebug-mcp)** · `TypeScript` · ★ 24
+**[xdebug-mcp](https://github.com/kpanuragh/xdebug-mcp)** · `TypeScript` · ★ 24<br>
 An MCP server for PHP Xdebug. It lets an AI assistant actually step through your
 code — breakpoints, stack frames, variable inspection — over Unix socket or TCP,
 instead of guessing at the bug from a stack trace.
 
-**[zlib](https://github.com/kpanuragh/zlib)** · `JavaScript` · ★ 20
+**[zlib](https://github.com/kpanuragh/zlib)** · `JavaScript` · ★ 20<br>
 Node's zlib core module reimplemented in pure JavaScript. Gzip and
 Deflate/Inflate with no native bindings to compile.
 
-**[tui-db](https://github.com/kpanuragh/tui-db)** · `Rust`
+**[tui-db](https://github.com/kpanuragh/tui-db)** · `Rust`<br>
 DBeaver without leaving the terminal. Browse schemas, scroll a 124-column table
 sideways, all of it vim-bound.
 
-**[swaynoti](https://github.com/kpanuragh/swaynoti)** · `Rust`
+**[swaynoti](https://github.com/kpanuragh/swaynoti)** · `Rust`<br>
 A notification daemon for Wayland implementing the full FreeDesktop spec. I
 wanted my notifications to look a particular way and this was, on reflection, the
 proportionate response.
 
-**[wlaunch-rs](https://github.com/kpanuragh/wlaunch-rs)** · `Rust`
+**[wlaunch-rs](https://github.com/kpanuragh/wlaunch-rs)** · `Rust`<br>
 A Raycast-style launcher for Linux, built on Iced. See above, regarding
 proportionate responses.
 
-**[ssh-mcp](https://github.com/kpanuragh/ssh-mcp)** · `TypeScript` · ★ 2
+**[ssh-mcp](https://github.com/kpanuragh/ssh-mcp)** · `TypeScript` · ★ 2<br>
 An MCP server that gives an assistant a real SSH session on a remote host.
 
-**[php_dockerize](https://github.com/kpanuragh/php_dockerize)** · `Shell` · ★ 3
+**[php_dockerize](https://github.com/kpanuragh/php_dockerize)** · `Shell` · ★ 3<br>
 One script that stands up a complete PHP stack in Docker, written after doing it
 by hand for the fifteenth time.
 

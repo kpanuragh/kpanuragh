@@ -31,7 +31,7 @@ export function renderStats(stats, theme) {
     .join('');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="GitHub statistics for ${esc(stats.login)}: ${esc(group(stats.repos))} public repositories, ${esc(group(stats.stars))} stars, ${esc(group(stats.followers))} followers, ${esc(group(stats.contributions))} contributions in the last year">
-${panel(theme, 'TELEMETRY')}
+${panel(theme, 'STATION LOG')}
 ${body}
 </svg>`;
 }
