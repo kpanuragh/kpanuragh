@@ -145,7 +145,7 @@ only: I am not licensed to transmit, and listening is most of the fun anyway.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/band-plan-dark.svg">
-  <img alt="Backend: php, laravel, node, go, rust, python. Frontend: typescript, javascript, react, vue, next, tailwind. Data: mysql, postgres, mongodb, redis. Infra: docker, kubernetes, aws, azure, nginx, nix. Bench: linux, neovim, git, sdr." src="assets/band-plan-light.svg" width="620">
+  <img alt="Backend: php, laravel, node, go, rust, python. Frontend: typescript, javascript, react, vue, next, tailwind. Data: mysql, postgres, mongodb, redis. Infra: docker, kubernetes, aws, azure, nginx, nix. Desktop: linux, neovim, git, sdr." src="assets/band-plan-light.svg" width="620">
 </picture>
 
 <picture>

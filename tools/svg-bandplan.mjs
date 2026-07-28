@@ -14,7 +14,8 @@ export const BAND_GROUPS = [
   { name: 'FRONTEND', items: ['typescript', 'javascript', 'react', 'vue', 'next', 'tailwind'] },
   { name: 'DATA', items: ['mysql', 'postgres', 'mongodb', 'redis'] },
   { name: 'INFRA', items: ['docker', 'kubernetes', 'aws', 'azure', 'nginx', 'nix'] },
-  { name: 'BENCH', items: ['linux', 'neovim', 'git', 'sdr'] },
+  // Not "BENCH" — that label belongs to the terminal section.
+  { name: 'DESKTOP', items: ['linux', 'neovim', 'git', 'sdr'] },
 ];
 
 function chipWidth(item) {
