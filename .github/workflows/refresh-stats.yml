@@ -20,10 +20,12 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
+      # Bare `node --test` auto-discovers tests/. A glob argument needs Node 22+
+      # and a bare directory argument breaks on Node 24, so neither is portable.
       - name: Run unit tests
-        run: node --test 'tests/*.test.mjs'
+        run: node --test
 
       - name: Regenerate statistics assets
         env:
