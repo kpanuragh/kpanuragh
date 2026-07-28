@@ -6,13 +6,20 @@ import { THEMES } from './theme.mjs';
 import { renderHero } from './svg-hero.mjs';
 import { renderHeader } from './svg-headers.mjs';
 import { renderBandPlan } from './svg-bandplan.mjs';
+import { renderLayers } from './svg-layers.mjs';
+import { renderWorkshop } from './svg-workshop.mjs';
+import { renderTerminal } from './svg-terminal.mjs';
+import { renderRadar } from './svg-radar.mjs';
 
 export const SECTIONS = [
+  { slug: 'the-pattern', label: 'THE PATTERN' },
   { slug: 'on-air', label: 'ON AIR' },
+  { slug: 'workshop', label: 'WORKSHOP' },
   { slug: 'strong-signals', label: 'STRONG SIGNALS' },
   { slug: 'upstream', label: 'UPSTREAM' },
   { slug: 'noise-floor', label: 'NOISE FLOOR' },
   { slug: 'band-plan', label: 'BAND PLAN' },
+  { slug: 'bench', label: 'BENCH' },
   { slug: 'telemetry', label: 'TELEMETRY' },
   { slug: 'contact', label: 'CONTACT' },
 ];
@@ -25,6 +32,10 @@ function build() {
   for (const theme of Object.values(THEMES)) {
     written.push(['hero', renderHero(theme), theme.name]);
     written.push(['band-plan', renderBandPlan(theme), theme.name]);
+    written.push(['layers', renderLayers(theme), theme.name]);
+    written.push(['workshop', renderWorkshop(theme), theme.name]);
+    written.push(['terminal', renderTerminal(theme), theme.name]);
+    written.push(['radar', renderRadar(theme), theme.name]);
     for (const section of SECTIONS) {
       written.push([`hdr-${section.slug}`, renderHeader(section.label, theme), theme.name]);
     }
