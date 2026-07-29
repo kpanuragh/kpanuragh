@@ -4,22 +4,22 @@
 <line x1="20" y1="42" x2="500" y2="42" stroke="#d0d7de" stroke-width="1"/>
 <rect x="33.2" y="64.0" width="34.0" height="104.0" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="33.2" y="61.0" width="34.0" height="3" fill="#b45309"/>
-<text x="50.2" y="56.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">22.4%</text>
-<text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 50.2 180)">Shell</text><rect x="85.7" y="79.7" width="34.0" height="88.3" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="85.7" y="76.7" width="34.0" height="3" fill="#b45309"/>
-<text x="102.7" y="71.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">19.0%</text>
+<text x="50.2" y="56.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">22.3%</text>
+<text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 50.2 180)">Shell</text><rect x="85.7" y="78.8" width="34.0" height="89.2" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="85.7" y="75.8" width="34.0" height="3" fill="#b45309"/>
+<text x="102.7" y="70.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">19.1%</text>
 <text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 102.7 180)">JavaScript</text><rect x="138.1" y="83.0" width="34.0" height="85.0" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="138.1" y="80.0" width="34.0" height="3" fill="#b45309"/>
-<text x="155.1" y="75.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.3%</text>
-<text x="155.1" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 155.1 180)">PHP</text><rect x="190.6" y="97.9" width="34.0" height="70.1" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="190.6" y="94.9" width="34.0" height="3" fill="#b45309"/>
-<text x="207.6" y="89.9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">15.1%</text>
-<text x="207.6" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 207.6 180)">Rust</text><rect x="243.0" y="124.8" width="34.0" height="43.2" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="243.0" y="121.8" width="34.0" height="3" fill="#b45309"/>
-<text x="260.0" y="116.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">9.3%</text>
-<text x="260.0" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 260.0 180)">TypeScript</text><rect x="295.4" y="135.9" width="34.0" height="32.1" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="295.4" y="132.9" width="34.0" height="3" fill="#b45309"/>
-<text x="312.4" y="127.9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">6.9%</text>
+<text x="155.1" y="75.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.2%</text>
+<text x="155.1" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 155.1 180)">PHP</text><rect x="190.6" y="97.7" width="34.0" height="70.3" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="190.6" y="94.7" width="34.0" height="3" fill="#b45309"/>
+<text x="207.6" y="89.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">15.0%</text>
+<text x="207.6" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 207.6 180)">Rust</text><rect x="243.0" y="124.1" width="34.0" height="43.9" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="243.0" y="121.1" width="34.0" height="3" fill="#b45309"/>
+<text x="260.0" y="116.1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">9.4%</text>
+<text x="260.0" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 260.0 180)">TypeScript</text><rect x="295.4" y="135.7" width="34.0" height="32.3" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="295.4" y="132.7" width="34.0" height="3" fill="#b45309"/>
+<text x="312.4" y="127.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">6.9%</text>
 <text x="312.4" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 312.4 180)">CSS</text><rect x="347.9" y="157.5" width="34.0" height="10.5" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="347.9" y="154.5" width="34.0" height="3" fill="#b45309"/>
 <text x="364.9" y="149.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">2.3%</text>
