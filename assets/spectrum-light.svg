@@ -5,9 +5,9 @@
 <rect x="33.2" y="64.0" width="34.0" height="104.0" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="33.2" y="61.0" width="34.0" height="3" fill="#b45309"/>
 <text x="50.2" y="56.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">21.3%</text>
-<text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 50.2 180)">Shell</text><rect x="85.7" y="77.5" width="34.0" height="90.5" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="85.7" y="74.5" width="34.0" height="3" fill="#b45309"/>
-<text x="102.7" y="69.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.6%</text>
+<text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 50.2 180)">Shell</text><rect x="85.7" y="77.4" width="34.0" height="90.6" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="85.7" y="74.4" width="34.0" height="3" fill="#b45309"/>
+<text x="102.7" y="69.4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.6%</text>
 <text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 102.7 180)">Rust</text><rect x="138.1" y="79.2" width="34.0" height="88.8" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="138.1" y="76.2" width="34.0" height="3" fill="#b45309"/>
 <text x="155.1" y="71.2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.2%</text>
@@ -20,9 +20,9 @@
 <text x="260.0" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 260.0 180)">TypeScript</text><rect x="295.4" y="135.8" width="34.0" height="32.2" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="295.4" y="132.8" width="34.0" height="3" fill="#b45309"/>
 <text x="312.4" y="127.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">6.6%</text>
-<text x="312.4" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 312.4 180)">CSS</text><rect x="347.9" y="157.1" width="34.0" height="10.9" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="347.9" y="154.1" width="34.0" height="3" fill="#b45309"/>
-<text x="364.9" y="149.1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">2.2%</text>
+<text x="312.4" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 312.4 180)">CSS</text><rect x="347.9" y="157.0" width="34.0" height="11.0" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="347.9" y="154.0" width="34.0" height="3" fill="#b45309"/>
+<text x="364.9" y="149.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">2.3%</text>
 <text x="364.9" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 364.9 180)">Python</text><rect x="400.3" y="157.5" width="34.0" height="10.5" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="400.3" y="154.5" width="34.0" height="3" fill="#b45309"/>
 <text x="417.3" y="149.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">2.1%</text>
