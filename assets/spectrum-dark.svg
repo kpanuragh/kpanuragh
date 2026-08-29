@@ -7,7 +7,7 @@
 <text x="50.2" y="56.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">22.0%</text>
 <text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#e6edf3" text-anchor="end" transform="rotate(-40 50.2 180)">Rust</text><rect x="85.7" y="71.2" width="34.0" height="96.8" fill="#22d3ee" fill-opacity="0.7"/>
 <rect x="85.7" y="68.2" width="34.0" height="3" fill="#fbbf24"/>
-<text x="102.7" y="63.2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">20.5%</text>
+<text x="102.7" y="63.2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">20.4%</text>
 <text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#e6edf3" text-anchor="end" transform="rotate(-40 102.7 180)">Shell</text><rect x="138.1" y="85.5" width="34.0" height="82.5" fill="#22d3ee" fill-opacity="0.7"/>
 <rect x="138.1" y="82.5" width="34.0" height="3" fill="#fbbf24"/>
 <text x="155.1" y="77.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">17.4%</text>
