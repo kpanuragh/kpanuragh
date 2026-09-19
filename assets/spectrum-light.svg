@@ -5,18 +5,18 @@
 <rect x="33.2" y="64.0" width="34.0" height="104.0" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="33.2" y="61.0" width="34.0" height="3" fill="#b45309"/>
 <text x="50.2" y="56.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">21.9%</text>
-<text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 50.2 180)">Rust</text><rect x="85.7" y="74.6" width="34.0" height="93.4" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="85.7" y="71.6" width="34.0" height="3" fill="#b45309"/>
-<text x="102.7" y="66.6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">19.6%</text>
-<text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 102.7 180)">Shell</text><rect x="138.1" y="82.1" width="34.0" height="85.9" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="138.1" y="79.1" width="34.0" height="3" fill="#b45309"/>
-<text x="155.1" y="74.1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.1%</text>
-<text x="155.1" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 155.1 180)">JavaScript</text><rect x="190.6" y="93.6" width="34.0" height="74.4" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="190.6" y="90.6" width="34.0" height="3" fill="#b45309"/>
-<text x="207.6" y="85.6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">15.6%</text>
-<text x="207.6" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 207.6 180)">PHP</text><rect x="243.0" y="127.7" width="34.0" height="40.3" fill="#0891b2" fill-opacity="0.7"/>
-<rect x="243.0" y="124.7" width="34.0" height="3" fill="#b45309"/>
-<text x="260.0" y="119.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">8.5%</text>
+<text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 50.2 180)">Rust</text><rect x="85.7" y="74.8" width="34.0" height="93.2" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="85.7" y="71.8" width="34.0" height="3" fill="#b45309"/>
+<text x="102.7" y="66.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">19.6%</text>
+<text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 102.7 180)">Shell</text><rect x="138.1" y="82.3" width="34.0" height="85.7" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="138.1" y="79.3" width="34.0" height="3" fill="#b45309"/>
+<text x="155.1" y="74.3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">18.0%</text>
+<text x="155.1" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 155.1 180)">JavaScript</text><rect x="190.6" y="93.8" width="34.0" height="74.2" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="190.6" y="90.8" width="34.0" height="3" fill="#b45309"/>
+<text x="207.6" y="85.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">15.6%</text>
+<text x="207.6" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 207.6 180)">PHP</text><rect x="243.0" y="127.8" width="34.0" height="40.2" fill="#0891b2" fill-opacity="0.7"/>
+<rect x="243.0" y="124.8" width="34.0" height="3" fill="#b45309"/>
+<text x="260.0" y="119.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">8.5%</text>
 <text x="260.0" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#1f2328" text-anchor="end" transform="rotate(-40 260.0 180)">TypeScript</text><rect x="295.4" y="139.7" width="34.0" height="28.3" fill="#0891b2" fill-opacity="0.7"/>
 <rect x="295.4" y="136.7" width="34.0" height="3" fill="#b45309"/>
 <text x="312.4" y="131.7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#59636e" text-anchor="middle">6.0%</text>
