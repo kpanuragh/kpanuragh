@@ -8,9 +8,9 @@
 <text x="50.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#e6edf3" text-anchor="end" transform="rotate(-40 50.2 180)">Rust</text><rect x="85.7" y="74.8" width="34.0" height="93.2" fill="#22d3ee" fill-opacity="0.7"/>
 <rect x="85.7" y="71.8" width="34.0" height="3" fill="#fbbf24"/>
 <text x="102.7" y="66.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">19.6%</text>
-<text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#e6edf3" text-anchor="end" transform="rotate(-40 102.7 180)">Shell</text><rect x="138.1" y="82.3" width="34.0" height="85.7" fill="#22d3ee" fill-opacity="0.7"/>
-<rect x="138.1" y="79.3" width="34.0" height="3" fill="#fbbf24"/>
-<text x="155.1" y="74.3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">18.0%</text>
+<text x="102.7" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#e6edf3" text-anchor="end" transform="rotate(-40 102.7 180)">Shell</text><rect x="138.1" y="82.9" width="34.0" height="85.1" fill="#22d3ee" fill-opacity="0.7"/>
+<rect x="138.1" y="79.9" width="34.0" height="3" fill="#fbbf24"/>
+<text x="155.1" y="74.9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">17.9%</text>
 <text x="155.1" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#e6edf3" text-anchor="end" transform="rotate(-40 155.1 180)">JavaScript</text><rect x="190.6" y="93.8" width="34.0" height="74.2" fill="#22d3ee" fill-opacity="0.7"/>
 <rect x="190.6" y="90.8" width="34.0" height="3" fill="#fbbf24"/>
 <text x="207.6" y="85.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="9" fill="#7d8590" text-anchor="middle">15.6%</text>
